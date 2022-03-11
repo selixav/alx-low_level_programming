@@ -16,7 +16,7 @@ putchar(ch);
 }
 /*print A - Z*/
 while (CH <= 'Z')
-{ 
+{
 putchar(CH);
 ++CH;
 }
